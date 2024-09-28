@@ -1,0 +1,2 @@
+homework_1
+-DCATKIN_DEVEL_PREFIX=/home/mateus/homework_mateus/devel -DCMAKE_INSTALL_PREFIX=/home/mateus/homework_mateus/install -G Unix Makefiles
